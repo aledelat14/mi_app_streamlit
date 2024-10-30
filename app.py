@@ -290,7 +290,7 @@ if investment_amount1 > 0 or investment_amount2 > 0:
     # Mostrar el total combinado con estilo destacado
     st.markdown(
         f"<div style='text-align:center; font-size:22px; font-weight:bold; color:#2E8B57;'>"
-        f"Total combinado de la inversión esperada: ${total_combined:.2f}"
+        f"Resultado esperado del portafolio: ${total_combined:.2f}"
         f"</div>", 
         unsafe_allow_html=True
     )
