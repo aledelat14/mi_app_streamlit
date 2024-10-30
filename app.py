@@ -9,7 +9,7 @@ import numpy as np
 st.markdown(
     """
     <div style="background-color:#1f77b4;padding:10px;border-radius:10px">
-        <h1 style="color:white;text-align:center;">Aplicación segundo examen parcial</h1>
+        <h1 style="color:white;text-align:center;">Allianz Patrimonial</h1>
     </div>
     """,
     unsafe_allow_html=True
