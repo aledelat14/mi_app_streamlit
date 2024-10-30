@@ -71,7 +71,7 @@ st.markdown(
     """
     <div style="background-color:#e0e0e0;padding:10px;border-radius:8px;margin-top:10px">
         <p style="font-size:18px;font-weight:bold;color:#333;text-align:center;">
-            Choose 2 different ETFs to compare
+            Choose 2 different ETFs
         </p>
     </div>
     """,
